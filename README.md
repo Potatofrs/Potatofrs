@@ -1,6 +1,4 @@
-Howdy! It's me, Queenie!
-
-Hello there! 👋 I'm Queenie, a technology enthusiast based in Cebu City, Philippines. Welcome to my GitHub profile!
+Howdy! It's me, Queenie! a technology enthusiast based in Cebu City, Philippines. Welcome to my GitHub profile!
 
 I have a keen interest in technology and enjoy diving into mobile gaming. Additionally, I'm enthusiastic about front-end development and the creative aspects of building user interfaces.
 
